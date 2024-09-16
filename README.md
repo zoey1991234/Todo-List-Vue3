@@ -1,5 +1,3 @@
-# my-vue3-project
-
 # 概要
 
 基於 Vue 和 MongoDB 的代辦事項網頁
