@@ -34,8 +34,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ---------------------------------------
 
-#專案結構
-##前端 (Vue.js)
+# 專案結構
+## 前端 (Vue.js)
 * Vue3: 用於構建用戶界面。
 * HTML5: 結構化內容。
 * CSS3: 樣式化界面。
@@ -44,7 +44,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * App.vue: 包含 Todo 列表的顯示、添加、刪除和標記完成功能。
 * style 樣式設置前端外觀，包括按鈕、輸入框等。
 
-##後端 (Node.js + Express + MongoDB)
+## 後端 (Node.js + Express + MongoDB)
 * Express: 用於設置 RESTful API 服務。
 * MongoDB: 用於儲存 Todo 列表數據。
 * Mongoose: 用於簡化 MongoDB 的操作。
@@ -60,7 +60,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   *  DELETE /todos/:id: 刪除指定 ID 的待辦事項。
   * PUT /todos/:id: 更新指定 ID 的待辦事項（如標記為完成）。
 ---------------------------------------
-#主頁面
+# 主頁面
 
 ![image](https://github.com/user-attachments/assets/f06a1042-64fd-458a-ba13-0bd646528293)
 
